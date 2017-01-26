@@ -51,7 +51,7 @@ project files in the IDE. Press `F6` to run or `Ctrl + F5` to debug.
 
 ##Details
 ###Lab 1 - Intro to Java Swing
-Introduction to the Swing library for Java by programming a replica Facebook login screen.
+Introduction to the Swing library for Java by programming a replica Facebook login screen UI (only the interface, not the functionality).
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
