@@ -1,3 +1,7 @@
+/*
+* AUTHOR: Daniel Shevtsov (SID: 200351253)
+ */
+
 package com.shevtsod;
 
 import com.sun.deploy.panel.JSmartTextArea;
@@ -13,7 +17,8 @@ public class Window extends JFrame {
 		            centerForgotPassLabel, centerOrLabel;
 	private JButton headerSignUpButton, centerLoginButton;
 	private JCheckBox centerKeepLoggedInCB;
-	private JTextField centerEmailText, centerPasswordText;
+	private JTextField centerEmailText;
+	private JPasswordField centerPasswordText;
 	
 	/*
 	 * Main program entry point
@@ -122,10 +127,10 @@ public class Window extends JFrame {
         centerPanel.add(centerPasswordLabel);
 
         //"Password" Text Field
-        centerEmailText = new JTextField();
-        centerEmailText.setSize(200, 25);
-        centerEmailText.setLocation(140, 85);
-        centerPanel.add(centerEmailText);
+        centerPasswordText = new JPasswordField();
+        centerPasswordText.setSize(200, 25);
+        centerPasswordText.setLocation(140, 85);
+        centerPanel.add(centerPasswordText);
 		
 		//"Keep me logged in" Check Box
         centerKeepLoggedInCB = new JCheckBox("Keep me logged in");
