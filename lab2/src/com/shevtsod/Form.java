@@ -1,5 +1,5 @@
 /*
- * AUTHOR: Daniel Shevtsov (SID: 200351253
+ * AUTHOR: Daniel Shevtsov (SID: 200351253)
  */
 
 package com.shevtsod;
@@ -7,7 +7,7 @@ package com.shevtsod;
 import javax.swing.*;
 import java.awt.*;
 
-public class Window {
+public class Form {
 	
 	static final String yellowColor = 		"#f2e6d0";
 	static final String greenColor = 		"#3ea011";
@@ -25,10 +25,10 @@ public class Window {
 				   headerSubtitle;
 
 	public static void main(String[] args) {
-		new Window();
+		new Form();
 	}
 	
-	public Window() {
+	public Form() {
 		//Main window frame
 		frame = new JFrame();
 		frame.setSize(800, 600);

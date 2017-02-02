@@ -4,8 +4,6 @@
 
 package com.shevtsod;
 
-import com.sun.deploy.panel.JSmartTextArea;
-
 import javax.swing.*;
 import java.awt.*;
 
@@ -24,11 +22,11 @@ public class Window extends JFrame {
 	 * Main program entry point
 	 */
 	public static void main(String[] args) {
-		new Window();
+		new Form();
 	}
 	
 	/*
-	 * Initialize a Window object with a header panel and a center panel
+	 * Initialize a Form object with a header panel and a center panel
 	 */
 	public Window() {
 		this.setSize(800, 450);
