@@ -3,7 +3,8 @@
 My solutions to labs in ENSE 471 - User Interface Programming
 
 ##Overview
-> **Lab 1** - Intro to Java Swing
+> **Lab 1** - Intro to Java Swing  
+> **Lab 2** - Java Swing Part 2 (Event Handling)  
 
 ##Compilation
 ###Eclipse IDE for Java Neon.1
@@ -51,7 +52,10 @@ project files in the IDE. Press `F6` to run or `Ctrl + F5` to debug.
 
 ##Details
 ###Lab 1 - Intro to Java Swing
-Introduction to the Swing library for Java by programming a replica Facebook login screen UI (only the interface, not the functionality).
+Introduction to the Swing library for Java by programming a replica Facebook login screen UI (only the interface, not the functionality).  
+
+### Lab 2 - Java Swing Part 2 (Event Handling)
+Introduction to event handling in the Swing library for Java and programming of a mock online ordering system for a restaurant.  
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
