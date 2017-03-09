@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ENSE471 Lab 5 - Login Screen</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="password">Password</string>
+    <string name="logged_in">Logged in successfully!</string>
+    <string name="login_label">Application Login</string>
+</resources>
