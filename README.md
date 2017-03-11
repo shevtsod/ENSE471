@@ -6,6 +6,7 @@ My solutions to labs in ENSE 471 - User Interface Programming
 > **Lab 2** - Java Swing Part 2 (Event Handling)  
 > **Lab 3** - Java Swing Part 3 (Observer Pattern)  
 > **Lab 4** - Intro to Android Studio  
+> **Lab 5** - Android Studio - Login Screen
 
 ##Compilation
 ###Eclipse IDE for Java Neon.1
@@ -67,5 +68,8 @@ Introduction to Android Studio by creating and modifying a basic project and deb
 
 > **NOTE:** The project `lab4/AndroidApp1` should be built using Android Studio.  
 
----
-> Written with [StackEdit](https://stackedit.io/).
+### Lab 5  - Android Studio - Login Screen
+
+Created a simple Facebook login screen UI clone (only the interface, not the functionality) for Android.
+
+> **NOTE:** The project `lab5/Lab5` should be built using Android Studio.  
