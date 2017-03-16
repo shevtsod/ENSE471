@@ -1,15 +1,16 @@
 # ENSE 471
 My solutions to labs in ENSE 471 - User Interface Programming
 
-##Overview
+## Overview
 > **Lab 1** - Intro to Java Swing  
 > **Lab 2** - Java Swing Part 2 (Event Handling)  
 > **Lab 3** - Java Swing Part 3 (Observer Pattern)  
 > **Lab 4** - Intro to Android Studio  
-> **Lab 5** - Android Studio - Login Screen
+> **Lab 5** - Android Studio - Login Screen  
+> **Lab 6** - Android Studio - Calculator  
 
-##Compilation
-###Eclipse IDE for Java Neon.1
+## Compilation
+### Eclipse IDE for Java Neon.1
 To compile, go to
 > File -> New -> Java Project
 
@@ -24,7 +25,7 @@ Press `Ctrl + F11` to build and run, or `F11` to build and debug.
 
 You may receive a window to choose how to run the application. Select `Java Application`.  
 
-###IntelliJ IDEA 2016.2
+### IntelliJ IDEA 2016.2
 To compile, go to  
 > File -> New -> Project
 
@@ -38,7 +39,7 @@ Then, open the `Project` tab on the left, and expand the root folder.
 
 Expand the file containing `main()`. In the editor window, click the green play button beside it. There, you can choose to either run or debug the program.
 
-###NetBeans IDE 8.2
+### NetBeans IDE 8.2
 To compile, go to
 > File -> New Project  
 
@@ -52,8 +53,8 @@ Move the folder of one of the labs from this repository and merge it with the `s
 directory where you created the project. This will automatically update the
 project files in the IDE. Press `F6` to run or `Ctrl + F5` to debug.
 
-##Details
-###Lab 1 - Intro to Java Swing
+## Details
+### Lab 1 - Intro to Java Swing
 Introduction to the Swing library for Java by programming a replica Facebook login screen UI (only the interface, not the functionality).  
 
 ### Lab 2 - Java Swing Part 2 (Event Handling)
@@ -70,6 +71,8 @@ Introduction to Android Studio by creating and modifying a basic project and deb
 
 ### Lab 5  - Android Studio - Login Screen
 
-Created a simple Facebook login screen UI clone (only the interface, not the functionality) for Android.
+See [ENSE471Lab5](https://github.com/shevtsod/ENSE471Lab5).
 
-> **NOTE:** The project `lab5/Lab5` should be built using Android Studio.  
+### Lab 6  - Android Studio - Calculator
+
+See [ENSE471Lab6](https://github.com/shevtsod/ENSE471Lab6).
